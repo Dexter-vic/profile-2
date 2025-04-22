@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+}
+p{
+    color: crimson;
+}
+a {
+    color: blue;
+}
+.main-header{
+    color:rgb(133, 1, 1);
+}     
+#main-header{
+    color:rgb(21, 69, 228);
+} 
+body{
+    background-color:yellow;
+}
+p{
+    border:1px solid #ccc;
+}
+p{
+    margin:20px;
+}
+box{
+    padding:10px;
+}
