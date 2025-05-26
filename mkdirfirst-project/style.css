@@ -1,27 +1,13 @@
 h1{
-    color: blue;
+    color: GOLD;background-color: black;margin: 20px;padding: 20px;border: 20px;padding: 20px;
 }
-p{
-    color: crimson;
+P{
+    font-size: 40 PX;color: rgb(233, 12, 67);
 }
-a {
-    color: blue;
-}
-.main-header{
-    color:rgb(133, 1, 1);
-}     
-#main-header{
-    color:rgb(21, 69, 228);
-} 
 body{
-    background-color:yellow;
+    background-color: black;
+    color: aqua;border-left: 40px;margin: 40px;border: 40px;padding:20px;
 }
-p{
-    border:1px solid #ccc;
-}
-p{
-    margin:20px;
-}
-box{
-    padding:10px;
+select{
+    color: purple;
 }
